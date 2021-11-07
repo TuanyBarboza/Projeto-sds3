@@ -82,8 +82,8 @@ public class SaleDTO {
 	public void setSeller(SellerDTO seller) {
 		this.seller = seller;
 	}
-	
-	
+
+
 	
 	
 }
